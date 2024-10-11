@@ -1,0 +1,64 @@
+{
+  "languages": [
+    {
+      "name": "English",
+      "code": "en"
+    }
+  ],
+  "voices": [
+    {
+      "name": "Alice",
+      "elevenlabs_voice_id": "K8lgMMdmFr7QoEooafEf",
+      "gender": "female",
+      "language_id": 0
+    },
+    {
+      "name": "Alex",
+      "elevenlabs_voice_id": "UvSWlWKwkwKAshx25ieK",
+      "gender": "male",
+      "language_id": 0
+    }
+  ],
+  "names": [
+    {
+      "name": "James",
+      "gender": "male",
+      "language_id": 0
+    },
+    {
+      "name": "Michael",
+      "gender": "male",
+      "language_id": 0
+    }
+  ],
+  "categories": [
+    {
+      "name": "Greeting",
+      "language_id": 0
+    },
+    {
+      "name": "Support",
+      "language_id": 0
+    }
+  ],
+  "tts": [
+    {
+      "voice_id": 1,
+      "category_id": 0,
+      "name_id": 1,
+      "language_id": 0,
+      "text": "Personal greeting text with name",
+      "audio_file": "tts_0.mp3",
+      "symbols": 101
+    },
+    {
+      "voice_id": 1,
+      "category_id": 0,
+      "name_id": null,
+      "language_id": 0,
+      "text": "General support text without name",
+      "audio_file": "tts_1.mp3",
+      "symbols": 98
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+    "languages": [
+        {
+            "id": 1,
+            "name": "English",
+            "code": "en"
+        },
+        {
+            "id": 2,
+            "name": "Ukrainian",
+            "code": "uk"
+        },
+        {
+            "id": 3,
+            "name": "Polish",
+            "code": "pl"
+        }
+    ],
+    "voices": [
+        {
+            "id": 1,
+            "name": "Alice",
+            "elevenlabs_voice_id": "K8lgMMdmFr7QoEooafEf",
+            "gender": "female",
+            "language_id": 1
+        },
+        {
+            "id": 2,
+            "name": "Alex",
+            "elevenlabs_voice_id": "UvSWlWKwkwKAshx25ieK",
+            "gender": "male",
+            "language_id": 1
+        },
+        {
+            "id": 3,
+            "name": "Olena",
+            "elevenlabs_voice_id": "K8lgMMdmFr7QoEooafEf",
+            "gender": "female",
+            "language_id": 2
+        },
+        {
+            "id": 4,
+            "name": "Taras",
+            "elevenlabs_voice_id": "UvSWlWKwkwKAshx25ieK",
+            "gender": "male",
+            "language_id": 2
+        },
+        {
+            "id": 5,
+            "name": "Anna",
+            "elevenlabs_voice_id": "K8lgMMdmFr7QoEooafEf",
+            "gender": "female",
+            "language_id": 3
+        },
+        {
+            "id": 6,
+            "name": "Andrzej",
+            "elevenlabs_voice_id": "UvSWlWKwkwKAshx25ieK",
+            "gender": "male",
+            "language_id": 3
+        }
+    ],
+    "names": [
+        {
+            "id": 1,
+            "name": "James",
+            "gender": "male",
+            "language_id": 1
+        },
+        {
+            "id": 2,
+            "name": "Michael",
+            "gender": "male",
+            "language_id": 1
+        },
+        {
+            "id": 3,
+            "name": "John",
+            "gender": "male",
+            "language_id": 1
+        },
+        {
+            "id": 4,
+            "name": "Mary",
+            "gender": "female",
+            "language_id": 1
+        },
+        {
+            "id": 5,
+            "name": "Jennifer",
+            "gender": "female",
+            "language_id": 1
+        },
+        {
+            "id": 6,
+            "name": "Elizabeth",
+            "gender": "female",
+            "language_id": 1
+        },
+        {
+            "id": 7,
+            "name": "Piotr",
+            "gender": "male",
+            "language_id": 3
+        },
+        {
+            "id": 8,
+            "name": "Krzysztof",
+            "gender": "male",
+            "language_id": 3
+        },
+        {
+            "id": 9,
+            "name": "Andrzej",
+            "gender": "male",
+            "language_id": 3
+        },
+        {
+            "id": 10,
+            "name": "Anna",
+            "gender": "female",
+            "language_id": 3
+        },
+        {
+            "id": 11,
+            "name": "Maria",
+            "gender": "female",
+            "language_id": 3
+        },
+        {
+            "id": 12,
+            "name": "Katarzyna",
+            "gender": "female",
+            "language_id": 3
+        },
+        {
+            "id": 13,
+            "name": "Марія",
+            "gender": "female",
+            "language_id": 2
+        },
+        {
+            "id": 14,
+            "name": "Анна",
+            "gender": "female",
+            "language_id": 2
+        },
+        {
+            "id": 15,
+            "name": "Олена",
+            "gender": "female",
+            "language_id": 2
+        },
+        {
+            "id": 16,
+            "name": "Микола",
+            "gender": "male",
+            "language_id": 2
+        },
+        {
+            "id": 17,
+            "name": "Олександр",
+            "gender": "male",
+            "language_id": 2
+        },
+        {
+            "id": 18,
+            "name": "Дмитро",
+            "gender": "male",
+            "language_id": 2
+        }
+    ],
+    "categories": [
+        {
+            "id": 1,
+            "name": "Support",
+            "language_id": 1
+        }
+    ],
+    "personal": [],
+    "general": []
+}
